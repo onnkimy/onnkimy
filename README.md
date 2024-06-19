@@ -1,16 +1,24 @@
-## Hi there 👋
+##  vindas ao meu perfil 👋
 
-<!--
-**onnkimy/onnkimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  Meu nome é kimberly larissa 
+- Estou estudando no alura
+- Estou me desnvolvendo na linguagem Javascript
+- Utilizo esse espaço para criar e compartilhar as minhas criações
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Para entrar em contato comigo
+
+  @ixi_Kimberly
+  
+  Kimberlylari23@gmail.com
+![](https://media1.tenor.com/m/jhVN7KABlSQAAAAd/eu-n%C3%A3o.gif)
+
+
+
+
+
+
+
+
+
+
